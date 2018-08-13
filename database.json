@@ -1,5 +1,6 @@
 {
   "0": {
+    "date_added": "2018-08-12T00:00:00-03:00",
     "status": "TO_WATCH",
     "title": "K-19: The Widowmaker",
     "uri": {
@@ -7,8 +8,7 @@
     }
   },
   "1": {
-    "date_watched": null,
-    "key": "1",
+    "date_added": "2018-08-12T00:00:00-03:00",
     "status": "TO_WATCH",
     "title": "Finding Dory",
     "uri": {
@@ -16,8 +16,8 @@
     }
   },
   "2": {
+    "date_added": "2018-08-12T00:00:00-03:00",
     "date_watched": "2018-04-26T00:00:00Z",
-    "key": "2",
     "status": "WATCHED",
     "title": "Memento",
     "uri": {
